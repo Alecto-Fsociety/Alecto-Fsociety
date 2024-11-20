@@ -8,15 +8,20 @@ I mainly use **Python** for development,
 working in a **Linux environment** with **Vim** as my editor (though I dabble in other languages too).  
 Sometimes, I also create **Bash scripts** to automate installation processes.
 
+I primarily use **Kali Linux**, a powerful distribution tailored for penetration testing and security research.  
+For multi-platform testing, I also run **Windows** in a **VirtualBox** environment.
+
 ---
 
-### My Tools
+### My Tools and Platforms
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="100" height="100">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux" width="100" height="100">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="Vim" width="100" height="100">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Bash Script" width="100" height="100">
+  <img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="Kali Linux" width="100" height="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="VirtualBox" width="100" height="100">
 </p>
 
 ---
@@ -56,3 +61,4 @@ Thanks for supporting **Alecto-Fsociety**!
 
 ### License
 This repository is licensed under the [MIT License](LICENSE).
+
