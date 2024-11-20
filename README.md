@@ -10,6 +10,17 @@ Sometimes, I also create **Bash scripts** to automate installation processes.
 
 ---
 
+### My Tools
+
+![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)  
+![Linux](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png)  
+![Vim](https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg)
+
+---
+
+
+---
+
 ## Where I Learn
 
 I hone my hacking skills through training platforms, and I’m actively working on:
