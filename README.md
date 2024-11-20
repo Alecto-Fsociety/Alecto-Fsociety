@@ -12,12 +12,13 @@ Sometimes, I also create **Bash scripts** to automate installation processes.
 
 ### My Tools
 
-![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)  
-![Linux](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png)  
-![Vim](https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="100" height="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux" width="100" height="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="Vim" width="100" height="100">
+</p>
 
 ---
-
 
 ---
 
