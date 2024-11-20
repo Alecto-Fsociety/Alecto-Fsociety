@@ -25,7 +25,7 @@ Sometimes, I also create **Bash scripts** to automate installation processes.
 
 <p align="center">
   <a href="https://play.picoctf.org/">
-    <img src="https://play.picoctf.org/images/logo_2b82f40.svg" alt="picoCTF" width="100" height="100">
+    <img src="https://picoctf.org/img/logos/picoctf-logo-og.png" alt="picoCTF" width="100" height="100">
   </a>
   <a href="https://tryhackme.com/">
     <img src="https://tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="TryHackMe" width="200" height="100">
