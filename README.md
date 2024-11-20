@@ -16,13 +16,21 @@ Sometimes, I also create **Bash scripts** to automate installation processes.
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="100" height="100">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux" width="100" height="100">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="Vim" width="100" height="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Bash Script" width="100" height="100">
 </p>
 
 ---
 
----
-
 ## Where I Learn
+
+<p align="center">
+  <a href="https://play.picoctf.org/">
+    <img src="https://play.picoctf.org/images/logo_2b82f40.svg" alt="picoCTF" width="100" height="100">
+  </a>
+  <a href="https://tryhackme.com/">
+    <img src="https://tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="TryHackMe" width="200" height="100">
+  </a>
+</p>
 
 I hone my hacking skills through training platforms, and I’m actively working on:
 - [picoCTF](https://play.picoctf.org/)
