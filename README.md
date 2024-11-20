@@ -1,39 +1,38 @@
-# Alecto-Fsocietyへようこそ！
+# Welcome to Alecto-Fsociety!
 
-## やあ、Alecto-Fsocietyにようこそ！！
+## Hey, welcome to Alecto-Fsociety!
 
-俺は **Alecto**。  
-ここでは **サイバーセキュリティ** をテーマに扱った **tools** の開発を行っているよ。  
-普段使用している言語は **Python** で、  
-**Linux環境** で **Vim** を用いて開発している（他の言語も扱っているよ）。  
-たまに **Bash Script** を使ってインストール作業を自動化するスクリプトを書いたりもしているんだ。
+I'm **Alecto**.  
+Here, I focus on developing **tools** related to **cybersecurity**.  
+I mainly use **Python** for development,  
+working in a **Linux environment** with **Vim** as my editor (though I dabble in other languages too).  
+Sometimes, I also create **Bash scripts** to automate installation processes.
 
 ---
 
-## 学んでいること
+## Where I Learn
 
-ハッキングはトレーニングサービスで学んでおり、以下で活動中だよ：
+I hone my hacking skills through training platforms, and I’m actively working on:
 - [picoCTF](https://play.picoctf.org/)
 - [TryHackMe](https://tryhackme.com/)
 
 ---
 
-## メッセージの送信先
+## How to Reach Me
 
-もしよければ、**便利なtools** や **自動化tools** の作成をリクエストしてくれ！  
-以下のメールアドレスまで気軽にメッセージを送ってね：
+If you’re interested in **custom tools** or **automation scripts**,  
+feel free to send me a message at the email below:
 
 📧 **[goodbye_friend1111@proton.me](mailto:goodbye_friend1111@proton.me)**
 
 ---
 
-## 最後に
+## Final Notes
 
-ここでのリリースはこれからも更新していく予定だから、ぜひチェックしてくれ！  
-**Alecto-Fsociety** をよろしく！
+I’ll keep updating and releasing new tools here, so stay tuned!  
+Thanks for supporting **Alecto-Fsociety**!
 
 ---
 
-### ライセンス
-このリポジトリは [MITライセンス](LICENSE) のもとで提供されています。
-
+### License
+This repository is licensed under the [MIT License](LICENSE).
