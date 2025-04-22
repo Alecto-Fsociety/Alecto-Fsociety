@@ -51,7 +51,16 @@ feel free to send me a message at the email below:
 📧 **[goodbye_friend1111@proton.me](mailto:goodbye_friend1111@proton.me)**
 
 ---
+## ☕ Support the Observer
 
+If you find Nova_Observer useful, consider sponsoring the development.
+
+> "The world deserves to be observed — not just attacked."
+
+Your support helps maintain the tools and expand the philosophy behind NovaSystem.
+
+[❤️ Sponsor me on GitHub](https://github.com/sponsors/Alecto-Fsociety)
+---
 ## Final Notes
 
 I’ll keep updating and releasing new tools here, so stay tuned!  
