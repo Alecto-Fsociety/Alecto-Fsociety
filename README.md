@@ -35,6 +35,9 @@ For multi-platform testing, I also run **Windows** in a **VirtualBox** environme
   <a href="https://tryhackme.com/">
     <img src="https://tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="TryHackMe" width="200" height="100">
   </a>
+  <a href="https://www.hackthebox.com/">
+    <img src="https://www.hackthebox.com/images/landingv3/mega-menu-logo-htb.svg" alt="HackTheBox" width="300",height="100">
+  </a>
 </p>
 
 I hone my hacking skills through training platforms, and I’m actively working on:
