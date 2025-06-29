@@ -43,6 +43,7 @@ For multi-platform testing, I also run **Windows** in a **VirtualBox** environme
 I hone my hacking skills through training platforms, and I’m actively working on:
 - [picoCTF](https://play.picoctf.org/)
 - [TryHackMe](https://tryhackme.com/)
+- [HackTheBox](https://www.hackthebox.com/)
 
 ---
 
