@@ -15,14 +15,16 @@ For multi-platform testing, I also run **Windows** in a **VirtualBox** environme
 
 ### My Tools and Platforms
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="100" height="100">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux" width="100" height="100">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="Vim" width="100" height="100">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Bash Script" width="100" height="100">
-  <img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="Kali Linux" width="100" height="100">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="VirtualBox" width="100" height="100">
-</p>
+<table align="center">
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="80"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="80"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" width="80"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="80"></td>
+    <td><img src="https://www.kali.org/images/kali-dragon-icon.svg" width="80"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="80"></td>
+  </tr>
+</table>
 
 ---
 
