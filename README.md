@@ -30,6 +30,8 @@ For multi-platform testing, I also run **Windows** in a **VirtualBox** environme
 
 ## Where I Learn
 
+I hone my hacking skills through training platforms, and I’m actively working on:
+<br>
 <table align="center">
   <tr>
     <td align="center">
@@ -52,11 +54,6 @@ For multi-platform testing, I also run **Windows** in a **VirtualBox** environme
     </td>
   </tr>
 </table>
-
-I hone my hacking skills through training platforms, and I’m actively working on:
-- [picoCTF](https://play.picoctf.org/)
-- [TryHackMe](https://tryhackme.com/)
-- [HackTheBox](https://www.hackthebox.com/)
 
 ---
 
