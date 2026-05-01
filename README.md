@@ -30,17 +30,28 @@ For multi-platform testing, I also run **Windows** in a **VirtualBox** environme
 
 ## Where I Learn
 
-<p align="center">
-  <a href="https://play.picoctf.org/">
-    <img src="https://picoctf.org/img/logos/picoctf-logo-og.png" alt="picoCTF" width="100" height="100">
-  </a>
-  <a href="https://tryhackme.com/">
-    <img src="https://tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="TryHackMe" width="200" height="100">
-  </a>
-  <a href="https://www.hackthebox.com/">
-    <img src="https://www.hackthebox.com/images/landingv3/mega-menu-logo-htb.svg" alt="HackTheBox" width="300" height="100">
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://play.picoctf.org/">
+        <img src="https://picoctf.org/img/logos/picoctf-logo-og.png" height="80"><br>
+        picoCTF
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://tryhackme.com/">
+        <img src="https://tryhackme.com/img/logo/tryhackme_logo_full.svg" height="80"><br>
+        TryHackMe
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.hackthebox.com/">
+        <img src="https://www.hackthebox.com/images/landingv3/mega-menu-logo-htb.svg" height="80"><br>
+        Hack The Box
+      </a>
+    </td>
+  </tr>
+</table>
 
 I hone my hacking skills through training platforms, and I’m actively working on:
 - [picoCTF](https://play.picoctf.org/)
